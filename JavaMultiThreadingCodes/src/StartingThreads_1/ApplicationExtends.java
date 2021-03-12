@@ -39,6 +39,7 @@ public class ApplicationExtends {
         Runner runner2 = new Runner();
         runner2.start();
         System.out.println("main thread finished");
+        System.out.println("stop money");
     }
 
 }
